@@ -1,4 +1,4 @@
-module github.com/ZMarketNFT/auth
+module github.com/smarketnft/auth
 
 go 1.20
 
